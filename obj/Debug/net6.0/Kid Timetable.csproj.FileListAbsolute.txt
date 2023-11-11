@@ -1,0 +1,14 @@
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\bin\Debug\net6.0\Kid Timetable.exe
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\bin\Debug\net6.0\Kid Timetable.deps.json
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\bin\Debug\net6.0\Kid Timetable.runtimeconfig.json
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\bin\Debug\net6.0\Kid Timetable.dll
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\bin\Debug\net6.0\Kid Timetable.pdb
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.AssemblyInfo.cs
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.dll
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\refint\Kid Timetable.dll
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.pdb
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\Kid Timetable.genruntimeconfig.cache
+C:\Users\DECAGON\source\Toluwanimi personal practice\Kid Timetable\obj\Debug\net6.0\ref\Kid Timetable.dll
